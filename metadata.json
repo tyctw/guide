@@ -1,0 +1,6 @@
+{
+  "name": "TW會考落點分析 | 必勝攻略",
+  "description": "專為台灣國中生準備教育會考而設計的數位學習指南，提供各科備考策略、倒數計時器及個人每日計畫本。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
